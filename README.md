@@ -13,12 +13,12 @@
   <main>
     <h2>Forthcoming</h2>
     <ul>
-      <li>Convolver // Digital, 23.05.2025</li>
-      <li>Convolver B // In progress, 2025</li>
+      <h3>Convolver // Digital, 23.05.2025</h3>
+      <h3>Convolver B // In progress, 2025</h3>
     </ul>
     <h2>Selected Works</h2>
     <ul>
-      <h3li>Atom // Digital, 2025</h3>
+      <h3>Atom // Digital, 2025</h3>
       <h3>M62 Flyby // Pavements EP // Digital, 2025</h3>
       <h3>M62 Flyby (Nisk Remix) // Pavements EP // Digital, 2025</h3>
       <h3>K9 Candy (Nolan Hunt Remix) // Pavements EP // Digital, 2025</h3>
